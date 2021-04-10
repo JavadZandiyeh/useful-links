@@ -6,6 +6,7 @@
 - [Coursera](https://www.coursera.org/)
 - [Git.ir](https://git.ir/)
 - [DevDocs API Documents](https://devdocs.io/)
+- [edX](https://www.edx.org/)
 ## Java
 - [CodeJava](https://www.codejava.net/all-tutorials)
 - [JavaCup](https://javacup.ir/javacup-training-videos/)
