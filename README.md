@@ -22,3 +22,4 @@
  ## Others
  - [Typing Lessons](https://www.typing.com/student/lessons)
  - [CEIT AUT](https://www.aparat.com/ceit.ssc/)
+ - [FPGA design with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html)
