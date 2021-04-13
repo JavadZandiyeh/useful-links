@@ -20,6 +20,8 @@
  ## AI
  - [AI Roadmap](https://i.am.ai/roadmap/)
  - [TensorFlow](https://www.tensorflow.org/)
+ ## Data Base
+ - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
  ## Others
  - [Typing Lessons](https://www.typing.com/student/lessons)
  - [CEIT AUT](https://www.aparat.com/ceit.ssc/)
