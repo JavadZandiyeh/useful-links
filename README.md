@@ -1,5 +1,4 @@
 # Good Course Links
-## Schools
 - [w3schools](https://www.w3schools.com/)
 - [Udemy](https://www.udemy.com/)
 - [Coursera](https://www.coursera.org/)
