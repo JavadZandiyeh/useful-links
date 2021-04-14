@@ -20,7 +20,18 @@
  ## AI
  - [AI Roadmap](https://i.am.ai/roadmap/)
  - [TensorFlow](https://www.tensorflow.org/)
- ## Data Base
+ -- wish list:
+ - [1) Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai?specialization=key-technologies-for-business)
+ - [2) Getting Started with AI using IBM Watson](https://www.coursera.org/learn/ai-with-ibm-watson?specialization=applied-artifical-intelligence-ibm-watson-ai)
+ - [3) Building AI Powered Chatbots Without Programming](https://www.coursera.org/learn/building-ai-powered-chatbots?specialization=applied-artifical-intelligence-ibm-watson-ai)
+ - [4) Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=applied-artifical-intelligence-ibm-watson-ai)
+ - [5) Python Project for AI & Application Development](https://www.coursera.org/learn/python-project-for-ai-application-development?specialization=applied-artifical-intelligence-ibm-watson-ai)
+ - [6) Building AI Applications with Watson APIs](https://www.coursera.org/learn/building-ai-applications?specialization=applied-artifical-intelligence-ibm-watson-ai)
+ - [7) Introduction to Computer Vision with Watson and OpenCV](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv?specialization=applied-artifical-intelligence-ibm-watson-ai)
+ - [8) What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=key-technologies-for-business)
+ - [9) Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud?specialization=key-technologies-for-business)
+ - [10) The AI Ladder: A Framework for Deploying AI in your Enterprise](https://www.coursera.org/learn/ibm-ai-ladder-framework?specialization=ibm-ai-foundations-for-business)
+## Data Base
  - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
  ## Others
  - [Typing Lessons](https://www.typing.com/student/lessons)
