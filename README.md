@@ -20,7 +20,7 @@
  ## AI
  - [AI Roadmap](https://i.am.ai/roadmap/)
  - [TensorFlow](https://www.tensorflow.org/)
- -- wish list:
+ ### wish list:
  - [1) Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai?specialization=key-technologies-for-business)
  - [2) Getting Started with AI using IBM Watson](https://www.coursera.org/learn/ai-with-ibm-watson?specialization=applied-artifical-intelligence-ibm-watson-ai)
  - [3) Building AI Powered Chatbots Without Programming](https://www.coursera.org/learn/building-ai-powered-chatbots?specialization=applied-artifical-intelligence-ibm-watson-ai)
