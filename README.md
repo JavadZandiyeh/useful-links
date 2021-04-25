@@ -23,6 +23,7 @@
  - [TensorFlow](https://www.tensorflow.org/)
 ## DataBase
  - [db-book](https://www.db-book.com/)
+ - [MySQL Tutorial](https://www.mysqltutorial.org/)
  - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 ## Logic Design and Computer Architecture
 - [Verilog](https://www.chipverify.com/verilog/verilog-tutorial)
