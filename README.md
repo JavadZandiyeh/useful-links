@@ -25,7 +25,8 @@
  - [db-book](https://www.db-book.com/)
  - [MySQL Tutorial](https://www.mysqltutorial.org/)
  - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
- - [ERD Cards](https://dbdiagram.io/d)
+ - [DB Diagram](https://dbdiagram.io/d)
+ - [Online Sql and Relational Algebra](http://clotho.uom.gr/relax/calc.htm#)
 ## Logic Design and Computer Architecture
 - [Verilog](https://www.chipverify.com/verilog/verilog-tutorial)
 - [FPGA design with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html)
