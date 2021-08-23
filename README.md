@@ -24,8 +24,8 @@
  - [TensorFlow](https://www.tensorflow.org/)
  - [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
  ## MATLAB
- - create a MathWorks account at: https://www.mathworks.com/mwaccount/register
- - Go to:  https://matlabacademy.mathworks.com/ and click on the MATLAB Onramp button to start learning MATLAB!
+ - [create a MathWorks account](https://www.mathworks.com/mwaccount/register)
+ - [Onramp on MathWorks](https://matlabacademy.mathworks.com/)
 ## DataBase
  - [db-book](https://www.db-book.com/)
  - [MySQL Tutorial](https://www.mysqltutorial.org/)
