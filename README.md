@@ -23,9 +23,11 @@
  - [AI Roadmap](https://i.am.ai/roadmap/)
  - [TensorFlow](https://www.tensorflow.org/)
  - [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
- ## MATLAB
+ ## MATLAB / Octave
  - [Onramp on MathWorks](https://matlabacademy.mathworks.com/)
  - [MATLAB Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm)
+ - [Octave Documentation](https://octave.org/doc/v6.3.0/)
+ - [MATLAB Documentation](https://uk.mathworks.com/help/matlab/?refresh=true)
 ## DataBase
  - [db-book](https://www.db-book.com/)
  - [MySQL Tutorial](https://www.mysqltutorial.org/)
