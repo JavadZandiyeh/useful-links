@@ -3,12 +3,15 @@
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Udemy](https://www.udemy.com/)
 - [Coursera](https://www.coursera.org/)
+- [realpython](https://realpython.com/)
 - [DevDocs API Documents](https://devdocs.io/)
 - [edX](https://www.edx.org/)
 - [Git.ir](https://git.ir/)
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/playlists)
 - [Jenny's lectures](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
-- [Online Compiler](https://www.onlinegdb.com/)
+## Online Code
+- [onlinegdb](https://www.onlinegdb.com/)
+- [mycompiler](https://www.mycompiler.io/)
 ## Java
 - [CodeJava](https://www.codejava.net/all-tutorials)
 - [JavaCup](https://javacup.ir/javacup-training-videos/)
@@ -19,6 +22,9 @@
  - [Developer Roadmaps](https://roadmap.sh/)
  - [MDN Web Docs](https://developer.mozilla.org/fa/)
  - [Dosis - Google Fonts](https://fonts.google.com/specimen/Dosis?sidebar.open=true&selection.family=Bangers|Dosis:wght@300|Raleway:ital,wght@1,200)
+ - [Django documentation](https://docs.djangoproject.com/en/3.2/)
+ - [Django REST framework](https://www.django-rest-framework.org/)
+ - [django-hosting-on-heroku](https://realpython.com/django-hosting-on-heroku/)
  ## AI
  - [AI Roadmap](https://i.am.ai/roadmap/)
  - [TensorFlow](https://www.tensorflow.org/)
@@ -33,9 +39,15 @@
  - [MySQL Tutorial](https://www.mysqltutorial.org/)
  - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
  - [DB Diagram](https://dbdiagram.io/d)
+ ## LaTeX
+ - [overleaf learn](https://www.overleaf.com/learn)
+ - [overleaf project](https://www.overleaf.com/project)
 ## Logic Design and Computer Architecture
 - [Verilog](https://www.chipverify.com/verilog/verilog-tutorial)
 - [FPGA design with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html)
+## Micro
+- [arduino](https://www.arduino.cc/)
+- [labcenter(proteus)](https://www.labcenter.com/)
  ## Others
  - [Typing Lessons](https://www.typing.com/student/lessons)
  - [CEIT AUT](https://www.aparat.com/ceit.ssc/)
