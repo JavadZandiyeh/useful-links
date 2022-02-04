@@ -45,7 +45,7 @@
 ## Logic Design and Computer Architecture
 - [Verilog](https://www.chipverify.com/verilog/verilog-tutorial)
 - [FPGA design with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html)
-## Micro
+## Microprocessor
 - [arduino](https://www.arduino.cc/)
 - [labcenter(proteus)](https://www.labcenter.com/)
  ## Others
