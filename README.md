@@ -54,3 +54,4 @@
  ## Others
  - [Typing Lessons](https://www.typing.com/student/lessons)
  - [CEIT AUT](https://www.aparat.com/ceit.ssc/)
+ - [diagram and design](https://creately.com/)
