@@ -1,4 +1,4 @@
-# Good Course Links
+# Usefil Links
 - [w3schools](https://www.w3schools.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Udemy](https://www.udemy.com/)
