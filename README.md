@@ -28,9 +28,10 @@
  ## AI
  - [AI Roadmap](https://i.am.ai/roadmap/)
  - [TensorFlow](https://www.tensorflow.org/)
+ - [graph search](https://inst.eecs.berkeley.edu/~cs188/fa19/assets/demos/csp/csp_demos.html)
+ ### Machine Learning
  - [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
  - [Stanford Machine Learning](https://www.holehouse.org/mlclass/)
- - [graph search](https://inst.eecs.berkeley.edu/~cs188/fa19/assets/demos/csp/csp_demos.html)
  ## MATLAB / Octave
  - [Onramp on MathWorks](https://matlabacademy.mathworks.com/)
  - [MATLAB Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm)
