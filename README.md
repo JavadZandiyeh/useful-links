@@ -51,7 +51,10 @@
 ## Microprocessor
 - [arduino](https://www.arduino.cc/)
 - [labcenter(proteus)](https://www.labcenter.com/)
+## Research and Technical Presentation
+- [using Foxit Reader](https://www.youtube.com/watch?v=3cd18qcH1MI)
+- [diagram and design](https://creately.com/)
+- [EndNote tutorial](https://www.youtube.com/watch?v=wg613wuctoM&t=285s)
  ## Others
  - [Typing Lessons](https://www.typing.com/student/lessons)
  - [CEIT AUT](https://www.aparat.com/ceit.ssc/)
- - [diagram and design](https://creately.com/)
