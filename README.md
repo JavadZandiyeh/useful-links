@@ -33,6 +33,8 @@
  ### Machine Learning
  - [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
  - [Stanford Machine Learning](https://www.holehouse.org/mlclass/)
+ ### Robotics
+ - [Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=1)
  ## MATLAB / Octave
  - [Onramp on MathWorks](https://matlabacademy.mathworks.com/)
  - [MATLAB Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm)
