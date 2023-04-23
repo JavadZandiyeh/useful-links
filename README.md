@@ -60,6 +60,8 @@
 - [using Foxit Reader](https://www.youtube.com/watch?v=3cd18qcH1MI)
 - [diagram and design](https://creately.com/)
 - [EndNote tutorial](https://www.youtube.com/watch?v=wg613wuctoM&t=285s)
- ## Others
+## Cloud Computing
+- [Full Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
+## Others
  - [Typing Lessons](https://www.typing.com/student/lessons)
  - [CEIT AUT](https://www.aparat.com/ceit.ssc/)
