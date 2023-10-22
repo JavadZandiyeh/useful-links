@@ -30,18 +30,17 @@
 - [django-hosting-on-heroku](https://realpython.com/django-hosting-on-heroku/)
 ## AI
 - [AI Roadmap](https://i.am.ai/roadmap/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [graph search](https://inst.eecs.berkeley.edu/~cs188/fa19/assets/demos/csp/csp_demos.html)
+- [The AiEdge Newsletter](https://newsletter.theaiedge.io/)
+- [Docs: TensorFlow](https://www.tensorflow.org/)
 - [ZTM: PyTorch](https://www.learnpytorch.io/)
 - [Docs: Pytorch](https://pytorch.org/docs/stable/index.html)
-- [The AiEdge Newsletter](https://newsletter.theaiedge.io/)
 ### Machine Learning
 - [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [Stanford Machine Learning](https://www.holehouse.org/mlclass/)
 ### Graph Neural Network
 - [Stanford CS224W Videos](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 - [Stanford CS224W](https://web.stanford.edu/class/cs224w/)
-## Natural Language Processing
+### Natural Language Processing
 - [Stanford CS224N Videos](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 - [Stanford CS224N](https://web.stanford.edu/class/cs224n/)
 ### Robotics
