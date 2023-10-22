@@ -67,3 +67,4 @@
 ## Others
  - [Typing Lessons](https://www.typing.com/student/lessons)
  - [CEIT AUT](https://www.aparat.com/ceit.ssc/)
+ - [CV/Resume](https://www.aparat.com/v/zfSBk)
