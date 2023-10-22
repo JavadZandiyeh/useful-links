@@ -10,6 +10,7 @@
 - [Git.ir](https://git.ir/)
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/playlists)
 - [Jenny's lectures](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
+- [Code with Mosh](https://codewithmosh.com/)
 ## Online Code
 - [onlinegdb](https://www.onlinegdb.com/)
 - [mycompiler](https://www.mycompiler.io/)
@@ -20,38 +21,46 @@
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
 - [Quera College ](https://quera.ir/college/land/college/3078/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AD%D9%88%D8%B1-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%88-%D8%AA%D9%81%DA%A9%D8%B1%20%D8%B4%DB%8C%E2%80%8C%DA%AF%D8%B1%D8%A7/)
 - [realpython](https://realpython.com/)
- ## Web Programming
- - [Developer Roadmaps](https://roadmap.sh/)
- - [MDN Web Docs](https://developer.mozilla.org/fa/)
- - [Dosis - Google Fonts](https://fonts.google.com/specimen/Dosis?sidebar.open=true&selection.family=Bangers|Dosis:wght@300|Raleway:ital,wght@1,200)
- - [Django documentation](https://docs.djangoproject.com/en/3.2/)
- - [Django REST framework](https://www.django-rest-framework.org/)
- - [django-hosting-on-heroku](https://realpython.com/django-hosting-on-heroku/)
- ## AI
- - [AI Roadmap](https://i.am.ai/roadmap/)
- - [TensorFlow](https://www.tensorflow.org/)
- - [graph search](https://inst.eecs.berkeley.edu/~cs188/fa19/assets/demos/csp/csp_demos.html)
- - [PyTorch](https://www.learnpytorch.io/)
- ### Machine Learning
- - [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
- - [Stanford Machine Learning](https://www.holehouse.org/mlclass/)
- ### Robotics
- - [Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=1)
- ## MATLAB / Octave
- - [Onramp on MathWorks](https://matlabacademy.mathworks.com/)
- - [MATLAB Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm)
- - [Octave Documentation](https://octave.org/doc/v6.3.0/)
- - [MATLAB Documentation](https://uk.mathworks.com/help/matlab/?refresh=true)
- ## Robotics
- - [ROS Documentation](http://wiki.ros.org/)
+## Web Programming
+- [Developer Roadmaps](https://roadmap.sh/)
+- [MDN Web Docs](https://developer.mozilla.org/fa/)
+- [Dosis - Google Fonts](https://fonts.google.com/specimen/Dosis?sidebar.open=true&selection.family=Bangers|Dosis:wght@300|Raleway:ital,wght@1,200)
+- [Django documentation](https://docs.djangoproject.com/en/3.2/)
+- [Django REST framework](https://www.django-rest-framework.org/)
+- [django-hosting-on-heroku](https://realpython.com/django-hosting-on-heroku/)
+## AI
+- [AI Roadmap](https://i.am.ai/roadmap/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [graph search](https://inst.eecs.berkeley.edu/~cs188/fa19/assets/demos/csp/csp_demos.html)
+- [ZTM: PyTorch](https://www.learnpytorch.io/)
+- [Docs: Pytorch](https://pytorch.org/docs/stable/index.html)
+- [The AiEdge Newsletter](https://newsletter.theaiedge.io/)
+### Machine Learning
+- [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Stanford Machine Learning](https://www.holehouse.org/mlclass/)
+### Graph Neural Network
+- [Stanford CS224W Videos](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+- [Stanford CS224W](https://web.stanford.edu/class/cs224w/)
+## Natural Language Processing
+- [Stanford CS224N Videos](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [Stanford CS224N](https://web.stanford.edu/class/cs224n/)
+### Robotics
+- [Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=1)
+## MATLAB / Octave
+- [Onramp on MathWorks](https://matlabacademy.mathworks.com/)
+- [MATLAB Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm)
+- [Octave Documentation](https://octave.org/doc/v6.3.0/)
+- [MATLAB Documentation](https://uk.mathworks.com/help/matlab/?refresh=true)
+## Robotics
+- [ROS Documentation](http://wiki.ros.org/)
 ## DataBase
- - [db-book](https://www.db-book.com/)
- - [MySQL Tutorial](https://www.mysqltutorial.org/)
- - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
- - [DB Diagram](https://dbdiagram.io/d)
- ## LaTeX
- - [overleaf learn](https://www.overleaf.com/learn)
- - [overleaf project](https://www.overleaf.com/project)
+- [db-book](https://www.db-book.com/)
+- [MySQL Tutorial](https://www.mysqltutorial.org/)
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+- [DB Diagram](https://dbdiagram.io/d)
+## LaTeX
+- [overleaf learn](https://www.overleaf.com/learn)
+- [overleaf project](https://www.overleaf.com/project)
 ## Logic Design and Computer Architecture
 - [Verilog](https://www.chipverify.com/verilog/verilog-tutorial)
 - [FPGA design with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html)
@@ -64,7 +73,10 @@
 - [EndNote tutorial](https://www.youtube.com/watch?v=wg613wuctoM&t=285s)
 ## Cloud Computing
 - [Full Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
+- [Helm Docs](https://helm.sh/docs/)
+## Android
+- [Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 ## Others
- - [Typing Lessons](https://www.typing.com/student/lessons)
- - [CEIT AUT](https://www.aparat.com/ceit.ssc/)
- - [CV/Resume](https://www.aparat.com/v/zfSBk)
+- [Typing Lessons](https://www.typing.com/student/lessons)
+- [CEIT AUT](https://www.aparat.com/ceit.ssc/)
+- [CV/Resume](https://www.aparat.com/v/zfSBk)
