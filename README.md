@@ -46,13 +46,14 @@
 - [Stanford CS224N](https://web.stanford.edu/class/cs224n/)
 ### Robotics
 - [Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=1)
+- [ROS Documentation](http://wiki.ros.org/)
+### Information Retreival
+- [Stanford CS276/LING286](https://web.stanford.edu/class/cs276/)
 ## MATLAB / Octave
 - [Onramp on MathWorks](https://matlabacademy.mathworks.com/)
 - [MATLAB Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm)
 - [Octave Documentation](https://octave.org/doc/v6.3.0/)
 - [MATLAB Documentation](https://uk.mathworks.com/help/matlab/?refresh=true)
-## Robotics
-- [ROS Documentation](http://wiki.ros.org/)
 ## DataBase
 - [db-book](https://www.db-book.com/)
 - [MySQL Tutorial](https://www.mysqltutorial.org/)
