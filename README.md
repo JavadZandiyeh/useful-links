@@ -47,7 +47,7 @@
 ### Robotics
 - [Modern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=1)
 - [ROS Documentation](http://wiki.ros.org/)
-### Information Retreival
+### Information Retrieval
 - [Stanford CS276/LING286](https://web.stanford.edu/class/cs276/)
 ## MATLAB / Octave
 - [Onramp on MathWorks](https://matlabacademy.mathworks.com/)
