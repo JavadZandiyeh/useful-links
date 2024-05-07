@@ -30,6 +30,7 @@
 - [django-hosting-on-heroku](https://realpython.com/django-hosting-on-heroku/)
 ## AI
 - [AI Roadmap](https://i.am.ai/roadmap/)
+- [Berkeley CS188 Intro to AI 2024](https://inst.eecs.berkeley.edu/~cs188/sp24/)
 - [The AiEdge Newsletter](https://newsletter.theaiedge.io/)
 - [Docs: TensorFlow](https://www.tensorflow.org/)
 - [ZTM: PyTorch](https://www.learnpytorch.io/)
